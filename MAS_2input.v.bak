@@ -1,0 +1,49 @@
+// 
+// Designer: <student ID> 
+//
+module MAS_2input(
+    input signed [4:0] Din1,
+    input signed [4:0] Din2,
+    input [1:0] Sel,
+    input signed [4:0] Q,
+    output [1:0] Tcmp,
+    output signed reg [4:0] TDout,
+    output signed reg [3:0] Dout
+//    output reg signed [4:0] TDout,
+//    output reg signed [3:0] Dout
+);
+
+
+ALU fuckyou(
+	.var_1(Din1),
+	.var_2(Din2),
+	.mode(Sel),
+	.result(TDout)
+);
+
+endmodule
+
+module ALU(
+    input [4:0] var_1,
+    input [4:0] var_2,
+    input [1:0] mode,
+//    output reg [4:0] result
+    output [4:0] result
+);
+
+//    always @(*)
+//    begin
+        if(mode == 2'b11)
+        begin
+            result = var_1 + var_2;
+        end
+        else if(mode == 2'b00)
+        begin
+            result = var_1 - var_2;
+        end
+        else
+        begin
+            result = var_1;
+        end
+//    end
+endmodule

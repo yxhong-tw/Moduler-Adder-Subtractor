@@ -1,0 +1,46 @@
+/home/pulsar/Workspace/Moduler_Adder-Subtractor/MAS_2input.v {1 {vlog -work work -stats=none /home/pulsar/Workspace/Moduler_Adder-Subtractor/MAS_2input.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+-- Compiling module Q_CMP
+-- Compiling module MAS_2input
+
+Top level modules:
+	MAS_2input
+
+} {} {}} /home/pulsar/Workspace/Moduler_Adder-Subtractor/ALU.v {1 {vlog -work work -stats=none /home/pulsar/Workspace/Moduler_Adder-Subtractor/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} /home/pulsar/Workspace/Moduler_Adder-Subtractor/tb.v {1 {vlog -work work -stats=none /home/pulsar/Workspace/Moduler_Adder-Subtractor/tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}} /home/pulsar/Workspace/Moduler_Adder-Subtractor/ref/MAS_2input.v {1 {vlog -work work -stats=none /home/pulsar/Workspace/Moduler_Adder-Subtractor/ref/MAS_2input.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MAS_2input
+-- Compiling module ALU
+
+Top level modules:
+	MAS_2input
+
+} {} {}} /home/pulsar/Workspace/Moduler_Adder-Subtractor/ref/tb.v {1 {vlog -work work -stats=none /home/pulsar/Workspace/Moduler_Adder-Subtractor/ref/tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}} /home/pulsar/Workspace/Moduler_Adder-Subtractor/Q_CMP.v {1 {vlog -work work -stats=none /home/pulsar/Workspace/Moduler_Adder-Subtractor/Q_CMP.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Q_CMP
+
+Top level modules:
+	Q_CMP
+
+} {} {}}

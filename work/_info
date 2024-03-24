@@ -1,0 +1,106 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/pulsar
+vALU
+Z0 !s110 1711264956
+!i10b 1
+!s100 1;BRBMbTYiLMMWmNjWMoJ3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I4NWz3B@AMF:S][^QndR8^1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 d/home/pulsar/Workspace/Moduler_Adder-Subtractor
+w1711252340
+8/home/pulsar/Workspace/Moduler_Adder-Subtractor/ALU.v
+F/home/pulsar/Workspace/Moduler_Adder-Subtractor/ALU.v
+!i122 96
+L0 5 27
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1711264956.000000
+!s107 /home/pulsar/Workspace/Moduler_Adder-Subtractor/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/pulsar/Workspace/Moduler_Adder-Subtractor/ALU.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@a@l@u
+vMAS_2input
+R0
+!i10b 1
+!s100 FB=`0AhXZg_L_@S5]BP1]1
+R1
+I7>;0hc4DEo05j0__]R>Ei2
+R2
+R3
+w1711253141
+8/home/pulsar/Workspace/Moduler_Adder-Subtractor/MAS_2input.v
+F/home/pulsar/Workspace/Moduler_Adder-Subtractor/MAS_2input.v
+!i122 94
+L0 8 39
+R4
+r1
+!s85 0
+31
+R5
+!s107 Q_CMP.v|ALU.v|/home/pulsar/Workspace/Moduler_Adder-Subtractor/MAS_2input.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/pulsar/Workspace/Moduler_Adder-Subtractor/MAS_2input.v|
+!i113 1
+R6
+R7
+n@m@a@s_2input
+vQ_CMP
+R0
+!i10b 1
+!s100 6GGJiiXdRVKi]?Jl`Z55m0
+R1
+IjS2mIU70>8Imdj1RAz;hA3
+R2
+R3
+w1711252366
+8/home/pulsar/Workspace/Moduler_Adder-Subtractor/Q_CMP.v
+F/home/pulsar/Workspace/Moduler_Adder-Subtractor/Q_CMP.v
+!i122 97
+L0 5 31
+R4
+r1
+!s85 0
+31
+R5
+!s107 /home/pulsar/Workspace/Moduler_Adder-Subtractor/Q_CMP.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/pulsar/Workspace/Moduler_Adder-Subtractor/Q_CMP.v|
+!i113 1
+R6
+R7
+n@q_@c@m@p
+vtest
+R0
+!i10b 1
+!s100 :L=8m]geahVA@DRm`@A_O1
+R1
+I1fWnJ6>QKP46eikNB]@@k3
+R2
+R3
+w1711204019
+8/home/pulsar/Workspace/Moduler_Adder-Subtractor/tb.v
+F/home/pulsar/Workspace/Moduler_Adder-Subtractor/tb.v
+!i122 95
+L0 2 172
+R4
+r1
+!s85 0
+31
+R5
+!s107 /home/pulsar/Workspace/Moduler_Adder-Subtractor/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/home/pulsar/Workspace/Moduler_Adder-Subtractor/tb.v|
+!i113 1
+R6
+R7
